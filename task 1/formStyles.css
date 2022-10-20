@@ -9,16 +9,23 @@
 .box{
     margin: 10vh;
     /* height: 100vh; */
-    padding: 10vh;  
+    padding: 10vh;
     border: 1px solid #000000;
 }
 
 .myInput{
     margin: 10px;
-    padding: 15px 15px; 
+    padding: 15px 15px;
 }
 
 .mySelect{
     margin: 10px;
-    padding: 10px 10px; 
+    padding: 10px 10px;
+}
+
+#pushBtn{
+    margin: 10px;
+    padding: 12px 12px;
+    border-radius: 3px;
+    background-color: #3ecc3e;
 }
