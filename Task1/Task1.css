@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.title {
+    text-align: center;
+}
+
+.main {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+    border: 5px solid black;
+    padding: 15px;
+    background-color: #f2f2f2;
+}
+.text {
+    margin-bottom: 10px;
+}
+
+.itext {
+    width: 200px;
+    height: 30px;
+    border: 1px solid black;
+}
+
+.labels {
+    padding-right: 35px;
+    font-size: 18px;
+}
+
+.dob .dof {
+    border: 2px solid black;
+    height: 35px; 
+}
+
+.gender .gopt {
+    width: 250px;
+    height: 40px;
+    border: 1px solid black;
+    font-size: 15px;
+}
+.country .opt {
+    width: 500px;
+    height: 40px;
+    border: 1px solid black;
+    font-size: 15px;
+}
+.sub {
+    text-align: center;
+}
+.sub input {
+    width: 120px;
+    height: 50px;
+    background-color: #e2336b;
+    color: white;
+    border: 2px solid black;
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+
